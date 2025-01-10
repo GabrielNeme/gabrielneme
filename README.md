@@ -24,9 +24,9 @@
 
   ### Contatos
 <div> 
-  <a href="https://instagram.com/gneme._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nemeegabriel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-neme-33645b268" target="_blank"><img src="https://i.ibb.co/nLGD8pp/Linkedin.png" style="width:120px; height:28px;"></a>
+  <a href="https://www.linkedin.com/in/gabriel-neme-33645b268" target="_blank"><img src="https://i.ibb.co/hZ4McY9/Linkedin.png" style="width:110px; height:28px;"></a>
+  <a href="https://instagram.com/gneme._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>                    
 
  ##
