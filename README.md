@@ -1,7 +1,10 @@
 ## Olá, boas vindas ao meu perfil GitHub 👋
 ### Me chamo Gabriel Neme, sou Analista e Desenvolvedor de Sistemas!
 
-
+<div>
+<a href="https://github.com/gabrielneme">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielneme&layout=compact&langs_count-16&theme=dark"/>
+</div>
 
 ### Linguagens e Habilidades
 
