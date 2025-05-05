@@ -18,7 +18,7 @@
     <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Gabriel-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
     </div>
-    <img align="right" type="img.jpg" height="150" width="150" src="https://i.ibb.co/80bXyfZ/Designer-removebg-preview.png"/>
+    <img align="right" type="img.jpg" height="150" width="150" src="https://i.ibb.co/0pWfWhX3/Designer-removebg-preview.png"/>
 
   ##
 
